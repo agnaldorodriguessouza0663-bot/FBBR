@@ -128,8 +128,9 @@ def draw_door(d, openness, jiggle=0.0, box=DOOR, light=(255, 236, 190)):
     w = (x1 - x0) * (1 - openness)
     if w > 2:
         d.rectangle([x0, y0, x0 + w, y1], fill=(126, 84, 52))
-        d.rectangle([x0 + 18, y0 + 30, x0 + w - 18, y0 + 240], outline=(104, 68, 42), width=6)
-        d.rectangle([x0 + 18, y0 + 290, x0 + w - 18, y1 - 40], outline=(104, 68, 42), width=6)
+        if w > 60:
+            d.rectangle([x0 + 18, y0 + 30, x0 + w - 18, y0 + 240], outline=(104, 68, 42), width=6)
+            d.rectangle([x0 + 18, y0 + 290, x0 + w - 18, y1 - 40], outline=(104, 68, 42), width=6)
         hx, hy = x0 + w - 36, (y0 + y1) / 2 + jiggle
         d.rounded_rectangle([hx - 26, hy - 8, hx + 10, hy + 8], radius=6, fill=(212, 176, 80))
         d.ellipse([hx - 6, hy + 20, hx + 6, hy + 34], fill=(40, 30, 20))
