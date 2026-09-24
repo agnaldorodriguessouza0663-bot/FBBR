@@ -1,0 +1,344 @@
+1
+00:00:00,500 --> 00:00:03,667
+Você sabe o que acontece quando alguém impede outra pessoa de
+
+2
+00:00:03,667 --> 00:00:06,004
+exercer livremente o seu direito de ir e vir?
+
+3
+00:00:06,354 --> 00:00:11,171
+O artigo 148 do Código Penal trata justamente do crime de
+
+4
+00:00:11,171 --> 00:00:13,538
+sequestro e cárcere privado.
+
+5
+00:00:15,200 --> 00:00:19,905
+Para entender melhor o artigo 148, vamos acompanhar uma
+
+6
+00:00:19,905 --> 00:00:24,096
+situação fictícia envolvendo Ana, Carlos e Bruno.
+
+7
+00:00:25,733 --> 00:00:29,448
+Certo dia, Ana encontra Carlos, um conhecido, e os dois
+
+8
+00:00:29,448 --> 00:00:30,933
+conversam normalmente.
+
+9
+00:00:31,283 --> 00:00:33,430
+Carlos leva Ana até uma casa.
+
+10
+00:00:33,430 --> 00:00:36,539
+Lá dentro, fecha a porta e guarda a chave.
+
+11
+00:00:36,889 --> 00:00:40,917
+Em determinado momento, Carlos impede Ana de deixar o local
+
+12
+00:00:40,917 --> 00:00:45,081
+contra a sua vontade. Ana não pode sair livremente, e percebe
+
+13
+00:00:45,081 --> 00:00:48,289
+que sua liberdade de locomoção foi restringida.
+
+14
+00:00:48,639 --> 00:00:53,570
+Essa conduta pode caracterizar o crime previsto no artigo 148
+
+15
+00:00:53,570 --> 00:00:54,863
+do Código Penal.
+
+16
+00:00:56,500 --> 00:01:01,194
+Diz o artigo: privar alguém de sua liberdade, mediante
+
+17
+00:01:01,194 --> 00:01:03,715
+sequestro ou cárcere privado.
+
+18
+00:01:03,715 --> 00:01:06,844
+A pena é de reclusão, de 1 a 3 anos.
+
+19
+00:01:07,194 --> 00:01:11,412
+O núcleo do crime é simples: privar alguém de sua liberdade.
+
+20
+00:01:11,412 --> 00:01:15,137
+O bem jurídico protegido é principalmente a liberdade
+
+21
+00:01:15,137 --> 00:01:18,722
+individual, especialmente a liberdade de locomoção.
+
+22
+00:01:20,367 --> 00:01:24,090
+Mas qual é a diferença entre sequestro e cárcere privado?
+
+23
+00:01:24,090 --> 00:01:27,943
+Tradicionalmente, a doutrina diferencia as duas modalidades
+
+24
+00:01:27,943 --> 00:01:30,295
+pela forma da privação da liberdade.
+
+25
+00:01:30,645 --> 00:01:34,733
+Sequestro representa uma privação da liberdade em sentido mais
+
+26
+00:01:34,733 --> 00:01:38,229
+amplo, como impedir alguém de deixar uma propriedade.
+
+27
+00:01:38,579 --> 00:01:42,554
+Já o cárcere privado normalmente envolve uma restrição em
+
+28
+00:01:42,554 --> 00:01:45,971
+espaço mais delimitado, como um quarto ou cômodo.
+
+29
+00:01:46,321 --> 00:01:50,732
+Apesar da distinção doutrinária, ambos estão previstos no
+
+30
+00:01:50,732 --> 00:01:52,977
+artigo 148, com a mesma pena.
+
+31
+00:01:54,633 --> 00:02:00,065
+Enquanto isso, Bruno percebe que Ana não responde às mensagens
+
+32
+00:02:00,065 --> 00:02:03,481
+nem às ligações, algo incomum para ela.
+
+33
+00:02:03,831 --> 00:02:07,499
+Bruno percebe que existe algo errado e procura ajuda.
+
+34
+00:02:07,499 --> 00:02:10,543
+Ele liga para a polícia e relata o que sabe.
+
+35
+00:02:12,200 --> 00:02:16,273
+O artigo 148 prevê situações em que a conduta recebe
+
+36
+00:02:16,273 --> 00:02:21,052
+tratamento penal mais grave. Por isso, é fundamental analisar
+
+37
+00:02:21,052 --> 00:02:23,872
+as circunstâncias concretas do caso.
+
+38
+00:02:24,222 --> 00:02:28,089
+Pelo § 1º, a pena é de 2 a 5 anos quando a vítima é
+
+39
+00:02:28,089 --> 00:02:32,715
+ascendente, descendente, cônjuge ou companheiro do agente, ou
+
+40
+00:02:32,715 --> 00:02:37,113
+maior de 60 anos; quando há internação em casa de saúde ou
+
+41
+00:02:37,113 --> 00:02:40,829
+hospital; quando a privação dura mais de 15 dias;
+
+42
+00:02:40,829 --> 00:02:43,483
+quando a vítima é menor de 18 anos;
+
+43
+00:02:43,483 --> 00:02:45,758
+ou quando há fins libidinosos.
+
+44
+00:02:46,108 --> 00:02:51,472
+Pelo § 2º, a pena é de 2 a 8 anos se resulta à vítima, por
+
+45
+00:02:51,472 --> 00:02:56,836
+maus-tratos ou pela natureza da detenção, grave sofrimento
+
+46
+00:02:56,836 --> 00:02:58,316
+físico ou moral.
+
+47
+00:02:58,666 --> 00:03:04,488
+Atenção: a finalidade de obter vantagem como condição ou preço
+
+48
+00:03:04,488 --> 00:03:07,681
+do resgate não está no artigo 148.
+
+49
+00:03:07,681 --> 00:03:13,410
+Ela caracteriza a extorsão mediante sequestro, do artigo 159.
+
+50
+00:03:15,067 --> 00:03:19,681
+Atenção para a prova! Não devemos confundir qualificadoras com
+
+51
+00:03:19,681 --> 00:03:22,659
+causas de aumento ou diminuição de pena.
+
+52
+00:03:23,009 --> 00:03:27,529
+Nas hipóteses do próprio artigo 148, a lei estabelece novas
+
+53
+00:03:27,529 --> 00:03:30,747
+penas mínima e máxima: são qualificadoras.
+
+54
+00:03:30,747 --> 00:03:35,114
+Causas de aumento e de diminuição aplicam frações sobre a
+
+55
+00:03:35,114 --> 00:03:35,497
+pena.
+
+56
+00:03:35,847 --> 00:03:41,136
+O artigo 148 não prevê causa de aumento nem de diminuição
+
+57
+00:03:41,136 --> 00:03:46,889
+própria. As causas gerais devem ser analisadas conforme outros
+
+58
+00:03:46,889 --> 00:03:50,415
+dispositivos eventualmente aplicáveis.
+
+59
+00:03:52,067 --> 00:03:54,295
+Outro ponto importante é a hediondez.
+
+60
+00:03:54,295 --> 00:03:57,908
+Não devemos afirmar que todo e qualquer sequestro ou cárcere
+
+61
+00:03:57,908 --> 00:04:00,859
+privado possui automaticamente natureza hedionda.
+
+62
+00:04:01,209 --> 00:04:05,296
+É necessário verificar a modalidade concreta e a hipótese
+
+63
+00:04:05,296 --> 00:04:09,599
+prevista na Lei dos Crimes Hediondos, considerando a redação
+
+64
+00:04:09,599 --> 00:04:11,177
+vigente da legislação.
+
+65
+00:04:11,527 --> 00:04:16,440
+Hoje, desde a Lei 14.811/2024, é hediondo o sequestro e
+
+66
+00:04:16,440 --> 00:04:21,889
+cárcere privado cometido contra menor de 18 anos, previsto no
+
+67
+00:04:21,889 --> 00:04:23,319
+§ 1º, inciso IV.
+
+68
+00:04:24,967 --> 00:04:30,265
+Também é importante não confundir o artigo 148 com outros
+
+69
+00:04:30,265 --> 00:04:35,935
+crimes. O constrangimento ilegal está previsto no artigo 146.
+
+70
+00:04:36,285 --> 00:04:40,173
+O artigo 148 trata da privação da liberdade.
+
+71
+00:04:40,523 --> 00:04:45,834
+Já a extorsão mediante sequestro, prevista no artigo 159,
+
+72
+00:04:45,834 --> 00:04:51,239
+possui elementos próprios: o agente sequestra com o fim de
+
+73
+00:04:51,239 --> 00:04:55,899
+obter vantagem, como condição ou preço do resgate.
+
+74
+00:04:57,533 --> 00:05:01,741
+Bruno consegue acionar as autoridades, que localizam a casa.
+
+75
+00:05:02,091 --> 00:05:07,232
+No caso fictício que acompanhamos, Ana recupera sua liberdade,
+
+76
+00:05:07,232 --> 00:05:11,544
+e os fatos passam a ser analisados pelas autoridades
+
+77
+00:05:11,544 --> 00:05:12,539
+competentes.
+
+78
+00:05:12,889 --> 00:05:16,514
+Para definir corretamente o crime, é necessário observar todas
+
+79
+00:05:16,514 --> 00:05:18,793
+as circunstâncias da situação concreta.
+
+80
+00:05:20,433 --> 00:05:26,154
+Em resumo: o artigo 148 protege a liberdade individual e pune
+
+81
+00:05:26,154 --> 00:05:29,905
+a privação da liberdade de outra pessoa.
+
+82
+00:05:30,255 --> 00:05:34,580
+Para compreender corretamente o crime, é necessário analisar a
+
+83
+00:05:34,580 --> 00:05:38,346
+conduta, as circunstâncias, a duração da privação e as
+
+84
+00:05:38,346 --> 00:05:40,159
+características da vítima.
+
+85
+00:05:41,800 --> 00:05:43,944
+Conhecer o artigo é importante.
+
+86
+00:05:43,944 --> 00:05:47,056
+Saber aplicá-lo ao caso concreto é essencial.
+
